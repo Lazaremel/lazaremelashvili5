@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.sec {
+    background-color: #0e9999;
+    padding: 10px 0;
+}
+
+.menu {
+
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    color: aliceblue;
+
+}
+
+.menu a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+.menu li {
+
+    inline-size: 100px;
+    display: inline;
+    margin-right: 20px;
+}
+
+.socila {
+    width: 24px;
+    height: 24px;
+}
+
+.sec2 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.sec3 {
+    max-width: 1200px;
+    margin: 0 auto;
+    align-items: center;
+
+}
+
+.sec3 h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.sec3 p {
+    max-width: 800px;
+    margin: auto;
+    padding: 30px;
+}
+
+.img {
+    text-align: center;
+    margin-top: 20px;
+}
